@@ -4,7 +4,7 @@
         <description>Plugin til beregning af Minivådområder</description>
         <homepage>www.septima.dk</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <file_name>minivaadomraader_1_0.zip</file_name>
+        <file_name>minivaadomraader.zip</file_name>
         <author_name>Morten Fuglsang, Septima</author_name>
         <download_url>https://github.com/Septima/seges_repo/releases/download/v1.0/minivaadomraader.zip</download_url>
     </pyqgis_plugin>
